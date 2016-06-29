@@ -1,0 +1,14 @@
+layout_spectrum: 0.14092427492141724
+typography_spectrum: 0.814831500640139
+color:
+  brandStrength: 0.2313994166906923
+  lightness: 0.0826883742120117
+  saturation: 0.9170891249086708
+  rhythmicContrast: 0.042572445468977094
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: El Matador
